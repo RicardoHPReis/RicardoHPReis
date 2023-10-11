@@ -6,19 +6,11 @@ Most of this portfolio is about projects done for college or personal projects d
 ### My Social Media
 <a style="text-decoration: none; color: white" href="https://www.linkedin.com/in/ricardo-henrique-pires-dos-reis-6997a8234?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
   <img align="left" alt="Ricardo Reis" width="22px" style="color: white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-  <strong>LinkedIn</strong>
+  <strong>Linkedin</strong>
 </a>
 <br>
 
 ------
-
-### Stats
-<a href="https:://github.com/RicardoHPReis">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RicardoHPReis&show_icons=true&theme=dark">
-</a>
-<a href="https:://github.com/RicardoHPReis">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoHPReis&theme=dark&hide=Jupyter%20Notebook&langs_count=8&layout=compact">
-</a>
 
 ### Languages and Tools 🛠 
 
@@ -37,6 +29,14 @@ Most of this portfolio is about projects done for college or personal projects d
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Visual Studio](http://img.shields.io/badge/-Visual%20Studio-5391FE?style=flat-square&logo=visualstudio&logoColor=ffffff&color=purple)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
+
+### Stats
+<a href="https:://github.com/RicardoHPReis">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RicardoHPReis&show_icons=true&theme=dark">
+</a>
+<a href="https:://github.com/RicardoHPReis">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoHPReis&theme=dark&hide=Jupyter%20Notebook&langs_count=8&layout=compact">
+</a>
 
 <!--
 - 🔭 I’m currently working on ...
